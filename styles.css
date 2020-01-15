@@ -326,6 +326,11 @@ body{
     left: 11px;
     top: 8.5px;
 }
+.svg-cross{
+    position: relative;
+    width: 30px;
+    height: 30px;
+}
 .form-content-desc{
     position: relative;
     padding: 25px;
